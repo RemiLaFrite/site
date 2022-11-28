@@ -1,0 +1,85 @@
+
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit:cover;
+    position:fixed;
+    background-attachment: fixed;
+    z-index:-1;
+    margin: 0px 0px 0px 0px;
+
+}
+A:link{
+    text-decoration: none;
+    color: white;
+}
+
+
+h1 {
+    
+    border-bottom: 1px solid #d8d8d8;
+    width:750px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    color: white;
+    font-size: 50px;
+    font-family:  'Kanit', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    
+    
+}
+
+.Mon_enfance {
+
+    height : 65vh;
+    width : 200px;  
+    color : white;
+    padding : 15px;
+    z-index: 2;
+    
+}
+
+
+.e1{
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    line-height: 30px;
+    font-weight: 600;
+    width: 400px;
+    height: 200px;
+    margin-top: 40%;
+    margin-left: 60%;
+    float: left;
+
+}
+#footer-link{
+    border-top: 1px solid #d8d8d8;
+    width:750px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    font-family:  'Kanit', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 15px;
+
+}
+.link1{
+  background-color: black;
+    
+}
+.anglais{
+    border-radius: 50%;
+    height: 6vh;
+    width: 4vw;
+}
+
+
+
